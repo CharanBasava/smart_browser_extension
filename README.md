@@ -56,19 +56,8 @@ smart-browser-alert/
 ```
 
 
----
-
-## Screenshots
-
-## Some ScreenShots for this Project:
-### DATA
-![Home page](alert-data.png) 
-
-### ALERT
-![Home page](alert-popup.png)  
 
 
----
 
 ## 🚀 How to Use Smart Browser Alert
 
